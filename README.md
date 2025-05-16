@@ -10,6 +10,6 @@ from simulation space into physical world. We worked with humanoid robot NICO.
 
 Thesis goals:
 
-1. 2D calibration based on haptic feedback
-2. Object grasping optimization
-3. 3D calibration based on visual feedback
+1. 2D calibration based on haptic feedback - finished
+2. Object grasping optimization - working
+3. 3D calibration based on visual feedback - working
